@@ -94,7 +94,7 @@ body {
 
 .stats {
 
-    & h4 {
+    & span {
         font-size: 1.125rem;
         font-weight: 700;
     }
